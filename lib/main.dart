@@ -1,3 +1,8 @@
+////////////////////////////////////////////////////////
+//  Instagram: @invisionchip
+//  Github: https://github.com/chipinvision
+//  LinkedIn: https://linkedin.com/invisionchip
+////////////////////////////////////////////////////////
 import 'package:flutter/material.dart';
 import 'package:matchbox/utils/appstyle.dart';
 import 'package:matchbox/views/homeview.dart';
